@@ -38,7 +38,7 @@
   <a href="https://discord.com/users/1331231858083758102">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailyon:moisesassuncaocoelhojr@gmail.com">
+  <a href="mailton:moisesassuncaocoelhojr@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/moises-assuncao/">
@@ -52,5 +52,6 @@
 ###
 
 <img align="center" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
 
 
