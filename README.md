@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Moisés e sou estudante de Análise e Desenvolvimento de Sistemas, com foco em soluções web. Sinta-se à vontade para explorar meus projetos.</h2>
+<h2 align="left">Oi 👋! Meu nome é Moisés e sou estudante de Análise e Desenvolvimento de Sistemas, com foco em soluções web e documentação técnica. Sinta-se à vontade para explorar meus projetos.</h2>
 
 ###
 
@@ -56,6 +56,7 @@
 </picture>
 
 ###
+
 
 
 
