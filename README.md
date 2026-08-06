@@ -1,4 +1,8 @@
-<h2 align="left">Oi 👋! Meu nome é Moisés e sou estudante de Análise e Desenvolvimento de Sistemas, com foco em soluções web e documentação técnica. Sinta-se à vontade para explorar meus projetos.</h2>
+<h1 align="left">Olá, eu sou o Moisés 👋</h1>
+
+###
+
+<h2 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, e venho construindo minha base em programação através de projetos práticos — de páginas web a sistemas de automação. Ainda estou explorando qual área quero aprofundar (web, back-end, dados), e uso este espaço para documentar essa jornada.</h2>
 
 ###
 
