@@ -37,6 +37,9 @@
   <a href="https://wa.me/qr/D2GLKQYTCDGFP1">
       <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
+  <a href="https://www.instagram.com/moisestech_?rpxt=MWNiNml1cGl5ZWU0cA==">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
