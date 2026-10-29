@@ -1,5 +1,5 @@
 <p align="CENTER">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=5E17EB&width=435&lines=INICIANDO+O+SISTEMA...;OL%C3%81+SEJA+BEM-VINDO+;ANALISTA+DE+DADOS+%26+BI;DESENVOLVEDOR+WEB">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=5E17EB&center=true&vCenter=true&width=435&lines=INICIANDO+O+SISTEMA...;OL%C3%81+SEJA+BEM-VINDO!;ANALISTA+DE+DADOS+%26+BI;DESENVOLVEDOR+WEB">
 </p>
 
 <p align="center">
@@ -8,18 +8,9 @@
   </a>
 </p>
 
-
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moises-Assuncao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-###
-<h2 align="left">Ferramentas de Trabalho</h2>
-<div data-importer="techs" align="left">
+<p align="CENTER">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00E2BD&center=true&width=435&lines=Ferramentas+de+Trabalho%3A"
+</p>
 
   <p align="center">
   <a href="https://skillicons.dev">
@@ -52,16 +43,16 @@
 
 <img align="center" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
+
+
+###
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-
-
 
 
 
