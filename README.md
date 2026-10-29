@@ -8,6 +8,13 @@
   </a>
 </p>
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph.svg">
+</picture>
+
 <p align="CENTER">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00E2BD&center=true&width=435&lines=Ferramentas+de+Trabalho%3A"
 </p>
@@ -46,11 +53,7 @@
 </div>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
 
