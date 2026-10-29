@@ -41,14 +41,6 @@
 </div>
 
 
-<br>
-  <img align="center" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</br>
-
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph.svg">
