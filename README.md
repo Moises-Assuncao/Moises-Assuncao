@@ -7,7 +7,7 @@
     <img src="./Github.png"/>
   </a>
 </p>
-
+<br>
 <p align="CENTER">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=00E2BD&center=true&width=435&lines=Ferramentas+de+Trabalho%3A"
 </p>
@@ -20,7 +20,7 @@
   </a>
 </p>
 </br>
-
+<br>
 <h2 align="center">Redes Sociais</h2>
 <div align="center">
   <a href="https://discord.com/users/1331231858083758102">
