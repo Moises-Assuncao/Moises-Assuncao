@@ -1,13 +1,17 @@
-<h1 align="left">Olá, eu sou o Moisés 👋</h1>
+<p align="CENTER">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=5E17EB&width=435&lines=INICIANDO+O+SISTEMA...;OL%C3%81+SEJA+BEM-VINDO+;ANALISTA+DE+DADOS+%26+BI;DESENVOLVEDOR+WEB">
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/rayssareisdev/](https://www.linkedin.com/in/moises-assuncao/">
+    <img src="./GitHub.png" />
+  </a>
+</p>
 
-<h2 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, e venho construindo minha base em programação através de projetos práticos — de páginas web a sistemas de automação. Ainda estou explorando qual área quero aprofundar (web, back-end, dados), e uso este espaço para documentar essa jornada.</h2>
 
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Assuncao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moises-Assuncao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
