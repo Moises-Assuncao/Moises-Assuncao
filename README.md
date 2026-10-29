@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rayssareisdev/](https://www.linkedin.com/in/moises-assuncao/">
-    <img src="./GitHub.png" />
+    <img src="./Github.png"/>
   </a>
 </p>
 
