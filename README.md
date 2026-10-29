@@ -21,7 +21,12 @@
 </p>
 </br>
 <br>
-<h2 align="center">Redes Sociais</h2>
+
+<br>
+<p align="CENTER">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=00E2BD&center=true&width=435&lines=Redes+Sociais%3A">
+</p>
+
 <div align="center">
   <a href="https://discord.com/users/1331231858083758102">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -39,7 +44,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moises-Assuncao/Moises-Assuncao/output/pacman-contribution-graph-dark.svg">
